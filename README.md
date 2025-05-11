@@ -2,7 +2,27 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Abuslama</h1>
 <h3 align="center">A passionate Data Analyst from Egypt</h3>
+
+###
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+
+
+<p align="left"> <a href="https://www.linkedin.com/in/abdullahabuslama" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="abdullahabuslama"  </p>
+
+
+- 🔭 I’m currently working on **AI-Based Fire Detection System & Real-Time Analytics Projects**
+
+- 🌱 I’m currently learning **Big Data, cloud, and Advanced AI Techniques**
+
+- 💬 Ask me about **Data Science, Data Analysis, and Embedded Systems**
+
+- 📫 How to reach me **abdullahabuslama@gmail.com**
+
+- 🌐 Visit my portfolio **[abdullahabuslama.work](https://abdullahabuslama.work)**
+
+- ⚡ Fun fact **I started as a graphic designer and now build data and embedded solutions**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -114,6 +134,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdullahabuslama/abdullahabuslama/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
