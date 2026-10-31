@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently an AI Engineer at ****[Upscend](https://upscend.com)****
 
-- 🌱 I’m currently learning **Generative AI, cloud, and Advanced AI Techniques**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Agentic Systems and Generative AI**
 
