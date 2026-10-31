@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **Generative AI, cloud, and Advanced AI Techniques**
 
-- 💬 Ask me about **AI Engineering, Generative AI, and Data Science**
-
-- 📫 How to reach me **abdullahabuslama@gmail.com**
+- 💬 Ask me about **Agentic Systems and Generative AI**
 
 - 🌐 Visit my portfolio **[abdullahabuslama.com](https://abdullahabuslama.com)**
 
