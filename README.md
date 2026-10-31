@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Agentic Systems and Generative AI**
+- 💬 Ask me about **RAG, Agentic Systems and Generative AI**
 
 - 🌐 Visit my Website **[abdullahabuslama.com](https://abdullahabuslama.com)**
 
