@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Agentic Systems and Generative AI**
 
-- 🌐 Visit my portfolio **[abdullahabuslama.com](https://abdullahabuslama.com)**
+- 🌐 Visit my Website **[abdullahabuslama.com](https://abdullahabuslama.com)**
 
 - ⚡ Fun fact **I started as a graphic designer and now build AI solutions**
 
